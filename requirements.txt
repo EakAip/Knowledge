@@ -1,4 +1,5 @@
 flask
+openai
 PyPDF2
 requests
 python-docx
