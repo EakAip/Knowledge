@@ -3,4 +3,5 @@ openai
 PyPDF2
 requests
 pypandoc
+pdfplumber
 python-docx
