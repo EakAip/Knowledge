@@ -6,3 +6,8 @@
 conda create -n knowledge python=3.8
 pip install requirements.txt
 ```
+
+# 安装 pandoc 工具
+```python
+sudo apt-get install pandoc
+```
