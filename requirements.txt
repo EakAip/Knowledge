@@ -3,5 +3,5 @@ openai
 PyPDF2
 requests
 pypandoc
-pdfplumber
+pdfplumber==0.11.4
 python-docx
