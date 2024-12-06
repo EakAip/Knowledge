@@ -6,6 +6,12 @@
 conda create -n knowledge python=3.8
 ```
 
+安装ppt转pptx工具
+```
+sudo apt update
+sudo apt install libreoffice
+```
+
 # 安装 pandoc 工具
 ```python
 sudo apt-get install pandoc
