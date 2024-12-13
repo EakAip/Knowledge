@@ -1,0 +1,9 @@
+[0;93m2024-12-12 10:21:15.860146917 [W:onnxruntime:, session_state.cc:1166 VerifyEachNodeIsAssignedToAnEp] Some nodes were not assigned to the preferred execution providers which may or may not have an negative impact on performance. e.g. ORT explicitly assigns shape related ops to CPU to improve perf.[m
+[0;93m2024-12-12 10:21:15.860175265 [W:onnxruntime:, session_state.cc:1168 VerifyEachNodeIsAssignedToAnEp] Rerunning with verbose output on a non-minimal build will show node assignments.[m
+Running on local URL:  http://0.0.0.0:8014
+
+To create a public link, set `share=True` in `launch()`.
+IMPORTANT: You are using gradio version 4.31.5, however version 4.44.1 is available, please upgrade.
+--------
+File object received: /tmp/gradio/dcd6a506da4e64617014fbbdb0d14babc6766c17/测试1.png
+Processing images:   0%|          | 0/1 [00:00<?, ?it/s]Processing images: 100%|██████████| 1/1 [00:03<00:00,  3.49s/it]Processing images: 100%|██████████| 1/1 [00:03<00:00,  3.49s/it]
