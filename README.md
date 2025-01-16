@@ -6,6 +6,10 @@
 conda create -n knowledge python=3.8
 ```
 
+```python
+conda activate knowledge
+```
+
 安装ppt转pptx工具
 ```
 sudo apt update
