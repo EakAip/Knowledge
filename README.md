@@ -13,6 +13,9 @@ conda activate knowledge
 安装ppt转pptx工具
 ```
 sudo apt update
+```
+
+```
 sudo apt install libreoffice
 ```
 
